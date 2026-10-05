@@ -16,3 +16,9 @@
 ## 파일명 규칙 (작가 지정)
 - 캐릭터 파일은 로마자 파일명: characters/shin-heejae.md (작가 지정). 같은 규칙으로 oh-yuri.md, siheon.md(렁시힌), kwon-dogeon.md, seo-mujin.md, jeon-myeonghu.md, han-gihyeon.md, hyeon-seongrak.md 등.
 - author/characters/heejae.md 지시는 USER 턴 검증 후 반영(검증 계획 항목 참조).
+
+## 교차 스토리 충돌 후보 (추출 보고 기준, 종합 시 원문 확인)
+- 오유리 납치·구출: oyuri 로그 = 2027.10.16 도진욱 납치 → 구출 / heejae 로그 = 2027.10.11 한남동 사옥 오유리 구출(신희재-서무진 첫 대면). 같은 사건이면 날짜 불일치.
+- 신희재 신체: 로그 180cm/57kg ↔ 작가 프로필 182cm/63kg → 작가 지시 우선.
+- heejae L14796–L15464의 2027.10.01 표기는 AI 날짜 오기(실제 10.23 새벽~) → 타임라인에서 무시.
+- 신희재가 전명후를 처음 "형"이라 부른 시점: 2027.11.02 마트 (heejae-03).
