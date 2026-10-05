@@ -12,3 +12,7 @@
 - 첫 OVERVIEW 오기: oyuri L10, siheon L1 부근에 "신희재" 이름이 잘못 들어감(템플릿 잔재 추정).
 - 요일 표기가 실제 달력과 체계적으로 어긋남(2025 달력과 일치한다는 보고).
 - AI 턴의 "재개발 구역" 단독 줄 = 생성 잡음(장소 정보 아님).
+
+## 파일명 규칙 (작가 지정)
+- 캐릭터 파일은 로마자 파일명: characters/shin-heejae.md (작가 지정). 같은 규칙으로 oh-yuri.md, siheon.md(렁시힌), kwon-dogeon.md, seo-mujin.md, jeon-myeonghu.md, han-gihyeon.md, hyeon-seongrak.md 등.
+- author/characters/heejae.md 지시는 USER 턴 검증 후 반영(검증 계획 항목 참조).
