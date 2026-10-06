@@ -1,3 +1,5 @@
+> ⚠ **2026-10-06 최종 개정으로 아래 기록 중 "2027.12 임신·도주·올림픽대교"·"26/27 갈림" 서술은 전부 superseded(올림픽대교는 2027.10 초). 이 로그는 이력 보존용이며 현행 기준은 `analysis/realign-final-checklist.md`와 `canon/author-revisions.md`.**
+
 # 정합 변경 로그 — 캐릭터 MD 2종 개정 v3 정렬
 
 > 작업일: 2026-10-06 · 방식: in-place 수정(삭제 없이 `〔개정 v3 · 구 … superseded〕` 병기 또는 `〔superseded — 개정 v3: …〕` 한 줄 부착)
