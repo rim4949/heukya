@@ -1,3 +1,5 @@
+> ⚠ **원본 로그 추출 노트.** 이 문서는 원본 로그가 서술한 값을 그대로 기록한다. 오유리·서무진·권도건의 나이, 올림픽대교·임신·출산·프로포즈·결혼 날짜, 2027.08~11의 관계 단계(연인 표기), 군복무 서술 등은 **최신 AUTHOR 지시로 대체(superseded)** 되었을 수 있다. 판정은 `canon/author-revisions.md`, `canon/age-date-verification.md`, `canon/contradictions.md`를 따른다(우선순위: 최신 AUTHOR directive > 개정패치 v3 > timeline-revision-oyuri.md > 기타 AUTHOR 문서 > canon 정리 문서 > 로그·로그 추출본).
+
 # heejae-02 추출 노트
 
 ## 0. 범위
