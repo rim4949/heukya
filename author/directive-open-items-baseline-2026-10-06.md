@@ -1,5 +1,6 @@
 # [AUTHOR DIRECTIVE] 미해결 1~4번 기준 확정 + 신규 문서 생성 순서
 
+> **⚠ SUPERSEDED 안내 (2026-10-06 최종 개정)** — §2(12월 사건 순서·한강 날짜 미정·정확 나이 표기 금지)는 최신·최종 기준은 `directive-oct-2027-pregnancy-bridge-FINAL-2026-10-06.md` 이다. 아래 원문은 보존하되 충돌하는 부분은 폐기된 것으로 읽는다.
 > 등록: 2026-10-06 · 출처: 작가 직접 지시 (원문 그대로 보존)
 > **정정(같은 날 후속 지시):** 아래 3번(10.08·10.15 "불완전한 응답" 재해석)은 `directive-oct-responses-correction-2026-10-06.md`로 **취소**되었다. 나머지 항목(1·2·4·5·6, 생성 순서)은 유효하다.
 > 성격: canon/author-revisions.md §8·contradictions.md의 미해결 항목에 대한 기준 확정. 이후 신규 문서(`stories/`, `knowledge-map.md` 등)는 이 기준을 따른다. 이전 AUTHOR directive와 충돌하면 이 문서가 우선한다.
